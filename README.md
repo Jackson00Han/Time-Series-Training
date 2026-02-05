@@ -27,7 +27,7 @@ On the test set, the probabilistic XGBoost model reduces MAE from **3.62 → 2.6
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/Energy_Market_Forecasting.git
+   git clone https://github.com/Jackson00Han/energy_market_forecasting.git
    cd Energy_Market_Forecasting
 
 2. Create and activate a Python environment by 
